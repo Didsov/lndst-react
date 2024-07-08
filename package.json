@@ -1,9 +1,9 @@
 {
+  "homepage": "https://Didsov.github.io/lndst-react",
   "name": "jsm",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Didsov.github.io/lndst-react",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
